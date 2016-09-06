@@ -1,0 +1,152 @@
+#
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "field:nodux_sale_pos_salesman.print_sale_report.start,company:"
+msgid "Company"
+msgstr "Empresa"
+
+msgctxt "field:nodux_sale_pos_salesman.print_sale_report.start,date:"
+msgid "Date"
+msgstr "Fecha"
+
+msgctxt "field:nodux_sale_pos_salesman.print_sale_report.start,date_end:"
+msgid "Date End"
+msgstr "Fecha Fin"
+
+msgctxt "field:nodux_sale_pos_salesman.print_sale_report.start,employee:"
+msgid "Salesman"
+msgstr "Vendedor"
+
+msgctxt "field:nodux_sale_pos_salesman.print_sale_report.start,id:"
+msgid "ID"
+msgstr "Identificador"
+
+msgctxt "field:nodux_sale_pos_salesman.print_sale_report.start,paid:"
+msgid "Paid Sales"
+msgstr "Ventas pagadas"
+
+msgctxt "help:nodux_sale_pos_salesman.print_sale_report.start,date:"
+msgid "Seleccione la fecha de la cual desea imprimir el reporte"
+msgstr ""
+
+msgctxt "help:nodux_sale_pos_salesman.print_sale_report.start,date_end:"
+msgid "Seleccione la fecha limite para imprimir el reporte"
+msgstr ""
+
+msgctxt "help:nodux_sale_pos_salesman.print_sale_report.start,paid:"
+msgid "Reporte de ventas que ya han sido pagadas"
+msgstr ""
+
+msgctxt "model:ir.action,name:report_sale_report"
+msgid "Salesman Report"
+msgstr "Reporte de Venta por Vendedor"
+
+msgctxt "model:ir.action,name:wizard_sale_report"
+msgid "Salesman Report"
+msgstr "Reporte de Venta por Vendedor"
+
+msgctxt "model:ir.ui.menu,name:menu_sale_report"
+msgid "Salesman Report"
+msgstr "Reporte de Venta por Vendedor"
+
+msgctxt "model:nodux_sale_pos_salesman.print_sale_report.start,name:"
+msgid "Print Sale Report Start"
+msgstr "Imprimir Reporte de Venta"
+
+msgctxt "odt:nodux_sale_pos_salesman.sale_report:"
+msgid "$"
+msgstr "$"
+
+msgctxt "odt:nodux_sale_pos_salesman.sale_report:"
+msgid "("
+msgstr "("
+
+msgctxt "odt:nodux_sale_pos_salesman.sale_report:"
+msgid ")"
+msgstr ")"
+
+msgctxt "odt:nodux_sale_pos_salesman.sale_report:"
+msgid "/"
+msgstr "/"
+
+msgctxt "odt:nodux_sale_pos_salesman.sale_report:"
+msgid ":"
+msgstr ":"
+
+msgctxt "odt:nodux_sale_pos_salesman.sale_report:"
+msgid "Base imponible"
+msgstr ""
+
+msgctxt "odt:nodux_sale_pos_salesman.sale_report:"
+msgid "Cliente"
+msgstr "CLIENTE"
+
+msgctxt "odt:nodux_sale_pos_salesman.sale_report:"
+msgid "Empleado"
+msgstr ""
+
+msgctxt "odt:nodux_sale_pos_salesman.sale_report:"
+msgid "Fecha"
+msgstr ""
+
+msgctxt "odt:nodux_sale_pos_salesman.sale_report:"
+msgid "Fecha fin"
+msgstr ""
+
+msgctxt "odt:nodux_sale_pos_salesman.sale_report:"
+msgid "Fecha inicio"
+msgstr ""
+
+msgctxt "odt:nodux_sale_pos_salesman.sale_report:"
+msgid "IMPRESO:"
+msgstr ""
+
+msgctxt "odt:nodux_sale_pos_salesman.sale_report:"
+msgid "Impuesto"
+msgstr ""
+
+msgctxt "odt:nodux_sale_pos_salesman.sale_report:"
+msgid "Nodux - (07) 2 560215 - 0999323367 -hola@nodux.e"
+msgstr ""
+
+msgctxt "odt:nodux_sale_pos_salesman.sale_report:"
+msgid "REPORTE DE VENTA POR VENDEDOR"
+msgstr ""
+
+msgctxt "odt:nodux_sale_pos_salesman.sale_report:"
+msgid "Sistema"
+msgstr ""
+
+msgctxt "odt:nodux_sale_pos_salesman.sale_report:"
+msgid "TOTAL"
+msgstr "TOTAL"
+
+msgctxt "odt:nodux_sale_pos_salesman.sale_report:"
+msgid "Total"
+msgstr "Total"
+
+msgctxt "odt:nodux_sale_pos_salesman.sale_report:"
+msgid "[ PAG."
+msgstr "[ PAG."
+
+msgctxt "odt:nodux_sale_pos_salesman.sale_report:"
+msgid "]"
+msgstr "]"
+
+msgctxt "odt:nodux_sale_pos_salesman.sale_report:"
+msgid "c"
+msgstr "c"
+
+msgctxt "view:nodux_sale_pos_salesman.print_sale_report.start:"
+msgid "Print Salesman Report "
+msgstr "Imprimir reporte por vendedor"
+
+msgctxt "wizard_button:nodux_sale_pos_salesman.print_sale_report,start,end:"
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgctxt ""
+"wizard_button:nodux_sale_pos_salesman.print_sale_report,start,print_:"
+msgid "Print"
+msgstr "Imprimir"
